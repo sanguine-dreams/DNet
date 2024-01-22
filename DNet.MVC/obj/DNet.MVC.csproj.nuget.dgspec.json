@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sanguine/Documents/DNet-master/DNet.MVC/DNet.MVC.csproj": {}
+  },
+  "projects": {
+    "/home/sanguine/Documents/DNet-master/DNet.MVC/DNet.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sanguine/Documents/DNet-master/DNet.MVC/DNet.MVC.csproj",
+        "projectName": "DNet.MVC",
+        "projectPath": "/home/sanguine/Documents/DNet-master/DNet.MVC/DNet.MVC.csproj",
+        "packagesPath": "/home/sanguine/.nuget/packages/",
+        "outputPath": "/home/sanguine/Documents/DNet-master/DNet.MVC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sanguine/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/sanguine/.dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
